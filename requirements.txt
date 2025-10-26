@@ -1,0 +1,5 @@
+## Requirements
+
+- Python 3.10 or later (if running from source)  
+- No external libraries needed — uses standard Python modules only  
+- For the compiled version, keep `square_of_9.exe` and your `Ephemeris.csv` file in the same folder
